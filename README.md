@@ -64,4 +64,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rahwik01/Rahwik01/output/snake.svg" alt="Snake animation" />
+<img src="rahwik.github/workflows/snake.yml" alt="Snake animation" />
