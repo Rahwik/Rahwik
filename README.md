@@ -66,13 +66,6 @@
 
 <img src="https://raw.githubusercontent.com/Rahwik01/Rahwik01/output/snake.svg" alt="Snake animation" />
 
-###### Hi there 👋
-
-<!--
-**Rahwik01/Rahwik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
