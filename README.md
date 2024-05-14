@@ -27,15 +27,15 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/rahul-prasad-164b63247/" target="_blank">
-  <img align="center" alt="Rahul Prasad | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Rahul Prasad | Linkedin" width="24px" src="https://github.com/Rahwik/Rahwik/blob/main/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/rahwik___k/" target="_blank">
-  <img align="center" alt="rahul Prasad | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="rahul Prasad | Instagram" width="24px" src="https://github.com/Rahwik/Rahwik/blob/main/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:rahul.3057.12@gmail.com" >
-  <img align="center" alt="Rahul Prasad | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Rahul Prasad | Gmail" width="26px" src="https://github.com/Rahwik/Rahwik/blob/main/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/github-user-contribution.svg" alt="snake">
 </p>
