@@ -39,3 +39,10 @@
 <p align="center">
   <img src="https://github.com/Rahwik/Rahwik/blob/main/github-user-contribution.svg" alt="snake">
 </p>
+<!-- GIFs Section -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnrS/giphy.gif" width="100px">
+</p>
