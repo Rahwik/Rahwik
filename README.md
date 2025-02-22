@@ -36,9 +36,6 @@
   <img align="center" alt="Rahul Prasad | Gmail" width="26px" src="https://github.com/Rahwik/Rahwik/blob/main/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
-<p align="center">
-  <img src="https://github.com/Rahwik/Rahwik/blob/main/github-user-contribution.svg" alt="snake">
-</p>
 <!-- GIFs Section -->
 <p align="center">
   <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2024-11.gif" width="100px">
