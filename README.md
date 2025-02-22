@@ -41,8 +41,10 @@
 </p>
 <!-- GIFs Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100px">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100px">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnrS/giphy.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2024-11.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2024-50.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202501.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2550.gif" width="100px">
+<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/Introduction_to_Pandas.gif" width="100px">
+<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/Top_SQL_50.gif" width="100px">
 </p>
