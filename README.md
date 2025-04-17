@@ -44,6 +44,7 @@
   <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2550.gif" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/Introduction_to_Pandas.gif" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/Top_SQL_50.gif" width="100px">
+<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202502.gif" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/03.gif" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/100.gif" width="100px">
 </p>
