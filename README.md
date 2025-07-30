@@ -8,14 +8,6 @@
 	</a>
 </p>
 
-<pre>
-💻 I am developing my skills as a AI/ML Developers | Enthuastic about new technologies
-📚 I pursuing Bachelors in Computer Science with Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🌟 Main languages: C++, Python, Django
-🚩 Interested in Full Stack Machine Learning Application development
-</pre>
-
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit%20learn-%2348C9B0.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Tensorflow](https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)![Pytorch](https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&logo=pytorch&logoColor=white)
