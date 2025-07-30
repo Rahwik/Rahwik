@@ -42,9 +42,13 @@
   <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2024-50.gif" width="100px">
   <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202501.gif" width="100px">
   <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2550.gif" width="100px">
-<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/Introduction_to_Pandas.gif" width="100px">
-<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/Top_SQL_50.gif" width="100px">
-<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202502.gif" width="100px">
-<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/03.gif" width="100px">
-<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/100.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/Introduction_to_Pandas.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/Top_SQL_50.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202502.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/03.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/100.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202504.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202505.gif" width="100px"> 
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202506.gif" width="100px">
+  <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/200.gif" width="100px">
 </p>
