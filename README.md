@@ -57,6 +57,7 @@
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/AWSEBadge.png" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/image.png" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/python-essentials-1.1.png" width="100px">
+<img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/badge-xenor-canyr-viryg-gavak-gisav.png" width="100px">
 
 
 </p>
