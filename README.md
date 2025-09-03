@@ -86,6 +86,7 @@
 <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202505.gif" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202506.gif" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202507.gif" width="100px">
+<img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/202508.gif" width="100px">
 
 <!-- 🏅 Problem Solving Milestone Badges (sorted by count) -->
 <img src="https://github.com/Rahwik/Rahwik/blob/main/leetcode%20badge/2024-50.gif" width="100px">
@@ -104,6 +105,7 @@
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/Adobe%20Express%20-%20file.png" height="100px" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/oci1.png" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/Adobe%20Express%20-%20file%20(1).png" width="100px">
+<img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/sap-certified-associate-data-analyst-sap-analytics-.png" width="100px">
 
 
 </p>
