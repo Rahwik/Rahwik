@@ -103,7 +103,7 @@
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/python-essentials-1.1.png" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/badge-xenor-canyr-viryg-gavak-gisav.png" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/Adobe%20Express%20-%20file.png" height="100px" width="100px">
-<img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/oci1.png" width="100px">
+<img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/sap-certified-associate-backend-developer-sap-cloud.png" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/Adobe%20Express%20-%20file%20(1).png" width="100px">
 <img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/sap-certified-associate-data-analyst-sap-analytics-.png" width="100px">
 
