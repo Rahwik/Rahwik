@@ -109,4 +109,5 @@
 
 [<img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/Screenshot%202025-10-18%20201248.png" width="1000px">](https://www.holopin.io/@rahwik#)
 
+<img src="https://github.com/Rahwik/Rahwik/blob/main/Badges/unnamed.png" width="100px">
 </p>
